@@ -72,7 +72,7 @@
 ---------------------------------------------------------------------------------------------------------------------------
 <img align="left" alt="CodeWhiteWeb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&show_icons=true&theme=chartreuse-dark" />
 
-<a align="center" href="https://app.daily.dev/CodeWhiteWeb"><img align="center" src="https://github.com/CodeWhiteWeb/CodeWhiteWeb/blob/ac4ec9de36b99241125345d13c1d4366dcdf9cc2/devcard.svg" width="200" alt="CodeWhiteWeb's Dev Card"/></a>
+<a href="https://app.daily.dev/CodeWhiteWeb"><img src="https://api.daily.dev/devcards/1582b63fa60f40f4acf6d3cadfafa4b1.png?r=qjw" width="200" alt="CodeWhiteWeb's Dev Card"/></a>
 
 
 [website]: https://codewhiteweb.github.io
