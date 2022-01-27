@@ -1,6 +1,4 @@
-### Hi there 👋, I am Code White  <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/79645854/121132158-67d5c800-c84e-11eb-9198-83811a4d6c79.png">
-
----------------------------------------------------------------------------------------------------------------------------
+# 💫About Me :
 - 🔭 I’m currently working on my github page : https://codewhiteweb.cf/
 - 🌱 I’m currently learning : Node.js
 - 👯 I’m looking to collaborate on my webpage
@@ -11,48 +9,20 @@
  2. scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME
 
 - ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
----------------------------------------------------------------------------------------------------------------------------
-### About Me   <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/79645854/121132158-67d5c800-c84e-11eb-9198-83811a4d6c79.png">
----------------------------------------------------------------------------------------------------------------------------
-- I am a FRONT-END web developer.
-- I am a student in High School.
-- My GitHub website : https://codewhiteweb.cf/
-- I am part-time Youtuber and make programming tutorials : https://bit.ly/3hVDMPh
-- My clic.ly webpage : https://bit.ly/3c5cmCV
----------------------------------------------------------------------------------------------------------------------------
-
-### Connect with me:
-
-[<img align="left" alt="CodeWhiteWeb.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="CodeWhiteWeb | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="CodeWhiteWeb | Dev.to" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" />][Dev.to]
-[<img align="left" alt="CodeWhiteWeb | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
----
 
 
-➡️ [My Youtube](https://youtube.com/CodeWhiteWeb)
+## 🌐Socials
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CodeWhiteWeb) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CodeWhiteWeb) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/code_white_web) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/CodeWhiteWeb) 
 
----
+# 💻Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### 📕 Latest Blog Posts
 
@@ -63,22 +33,8 @@
 
 ➡️ [more blog posts...](https://dev.to/codewhiteweb)
 
----------------------------------------------------------------------------------------------------------------------------
-### CARDS
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----------------------------------------------------------------------------------------------------------------------------
-<img align="left" alt="CodeWhiteWeb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&show_icons=true&theme=chartreuse-dark" />
-
-<a href="https://app.daily.dev/CodeWhiteWeb"><img src="https://api.daily.dev/devcards/1582b63fa60f40f4acf6d3cadfafa4b1.png?r=dev" width="200" alt="CodeWhiteWeb's Dev Card"/></a>
-
-
-[website]: https://codewhiteweb.github.io
-[youtube]: https://youtube.com/CodeWhiteWeb
-[dev.to]: https://dev.to/codewhiteweb
-[mail]: mailto:web.codewhite@gmail.com
-
-Thanks for reading😍   <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/79645854/121132158-67d5c800-c84e-11eb-9198-83811a4d6c79.png">
---------------------------------------------------------------------------------------------------------------------------- 
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/79645854/121132038-407efb00-c84e-11eb-8f76-a811a91cd71a.png" align="center">
-  </p>
+---
+![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
