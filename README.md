@@ -7,18 +7,24 @@
 </p>
 
 ---
-
+<div align="center">
+  
 # 💫About Me :
-- 🔭 I’m currently working on my github page : https://codewhiteweb.cf/
-- 🌱 I’m currently learning : Node.js
-- 👯 I’m looking to collaborate on my webpage
-- 🤔 I’m looking for help with Javascript
-- 💬 Ask me about for CSS help
-- 📫 How to reach me:  
- 1. Mail me at "web.codewhite@gmail.com" or 
- 2. scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME
+🔭 I’m currently working on my github page : https://codewhiteweb.cf
+  
+🌱 I’m currently learning : Node.js
 
-- ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
+  👯 I’m looking to collaborate on my webpage
+
+  🤔 I’m looking for help with Javascript
+
+  💬 Ask me about for CSS help
+
+  📫 How to reach me:  
+  Mail me at "web.codewhite@gmail.com" or 
+  scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME
+
+⚡ Fun fact: 7 out of 10 consumers find a company via the blog
 
 
 ## 🌐Socials
@@ -37,8 +43,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 must have 3rd party services for all websites](https://dev.to/codewhiteweb/10-must-have-3rd-party-services-for-all-websites-584m)
-- [Best Google Fonts for your website](https://dev.to/codewhiteweb/best-google-fonts-for-your-website-3e5k)
+ [10 must have 3rd party services for all websites](https://dev.to/codewhiteweb/10-must-have-3rd-party-services-for-all-websites-584m)
+  
+ [Best Google Fonts for your website](https://dev.to/codewhiteweb/best-google-fonts-for-your-website-3e5k)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/codewhiteweb)
@@ -48,3 +55,4 @@
 
 ---
 ![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
+</div>
