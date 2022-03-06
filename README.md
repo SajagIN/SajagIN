@@ -54,9 +54,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-![](http://ForTheBadge.com/images/badges/built-with-swag.svg)
+![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-![](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![](https://forthebadge.com/images/badges/uses-brains.svg)
 ---
 ![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
 </div>
