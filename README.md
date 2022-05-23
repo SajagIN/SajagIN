@@ -36,6 +36,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeWhiteWeb&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00DD8D&fire=DD2727&stroke=DDDDDD&sideNums=DDDDDD)](https://github.com/CodeWhiteWeb?tab=repositories)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+[![Code's github activity graph](https://activity-graph.herokuapp.com/graph?username=CodeWhiteWeb&theme=dracula)](https://skyline.github.com/CodeWhiteWeb)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
