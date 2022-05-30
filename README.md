@@ -12,7 +12,7 @@
 # 💫About Me :
 🔭 I’m currently working on my github page : https://codewhiteweb.cf
   
-🌱 I’m currently learning : Node.js
+🌱 I’m currently learning : Electron.js
 
   👯 I’m looking to collaborate on my webpage
 
