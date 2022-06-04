@@ -52,8 +52,8 @@
 ➡️ [more blog posts...](https://dev.to/codewhiteweb)
 
 ### My NPM and PIP Packages
-  - [chatbot-discord](https://www.npmjs.com/package/chatbot-discord)
-  - More Soon...
+  [chatbot-discord](https://www.npmjs.com/package/chatbot-discord)
+  More Soon...
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
