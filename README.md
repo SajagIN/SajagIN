@@ -40,7 +40,7 @@
 [![Code's github activity graph](https://activity-graph.herokuapp.com/graph?username=CodeWhiteWeb&theme=dracula)](https://skyline.github.com/CodeWhiteWeb)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4) <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/CodeWhiteWeb/CodeWhiteWeb/blob/main/devcard.svg" width="175" alt="CodeWhiteWebs's Dev Card"/></a>
+![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4) <a href="https://app.daily.dev/CodeWhiteWeb"><img src="https://github.com/CodeWhiteWeb/CodeWhiteWeb/blob/main/devcard.svg" width="175" alt="CodeWhiteWebs's Dev Card"/></a>
 
 ### 📕 Latest Blog Posts
 
