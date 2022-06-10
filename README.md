@@ -13,7 +13,7 @@
 # 💫About Me :
 🔭 I’m currently working on Chatbots and APIs : [Chatbot-discord](https://github.com/CodeWhiteWeb/Chatbot-discord-js)
   
-🌱 I’m currently learning : Electron.js
+🌱 I’m currently learning : JAVA
 
   👯 I’m looking to collaborate on my webpage
 
