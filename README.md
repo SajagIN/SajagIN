@@ -77,7 +77,7 @@
   
   More Soon...
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
