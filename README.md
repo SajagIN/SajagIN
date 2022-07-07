@@ -52,7 +52,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeWhiteWeb&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=141321)](https://github.com/CodeWhiteWeb?tab=repositories)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-[![Code's github activity graph](https://raw.githubusercontent.com/CodeWhiteWeb/CodeWhiteWeb/dfed38ee4f273514baaea0112891900aeed0a7e4/github-contribution-grid-snake.svg)](https://skyline.github.com/CodeWhiteWeb)
+[![Code's github activity graph](https://github.com/CodeWhiteWeb/CodeWhiteWeb/raw/output/github-contribution-grid-snake.svg)](https://skyline.github.com/CodeWhiteWeb)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=2&column=3) <a href="https://app.daily.dev/CodeWhiteWeb"><img src="https://github.com/CodeWhiteWeb/CodeWhiteWeb/blob/main/devcard.svg" width="175" alt="CodeWhiteWebs's Dev Card"/></a><br>
