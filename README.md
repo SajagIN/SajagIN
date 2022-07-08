@@ -79,6 +79,13 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
+
+# Funny Riddles , Test your brain 🤓
+
+[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/CodeWhiteWeb/github-readme-riddle)
+
+check out the repo [here](https://github.com/CodeWhiteWeb/github-readme-riddle)
+
 ---
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
