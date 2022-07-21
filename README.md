@@ -19,15 +19,15 @@
   
 🌱 I’m currently learning : NLP using NLTK python
 
-  👯 I’m looking to collaborate on my webpage
+  👯 I’m open to collaborate with anyone
 
   🤔 I’m Not looking for help
 
   💬 Ask me about for any help
 
   📫 How to reach me:  
-  Mail me at "web.codewhite@gmail.com" or 
-  scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME
+  Mail me at "web.codewhite@gmail.com" or
+  through website https://codewhiteweb.cf/#contact
 
 ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
 
