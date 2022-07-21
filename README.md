@@ -15,9 +15,9 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on Chatbots and APIs : [Chatbot-discord](https://github.com/CodeWhiteWeb/Chatbot-discord-js)
+🔭 I’m currently working on : NLP Implementation with Python
   
-🌱 I’m currently learning : JAVA
+🌱 I’m currently learning : NLP using NLTK python
 
   👯 I’m looking to collaborate on my webpage
 
