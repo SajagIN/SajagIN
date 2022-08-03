@@ -101,4 +101,6 @@ check out the repo [here](https://github.com/CodeWhiteWeb/github-readme-riddle)
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
+[HTML VERSION OF THIS README HERE](http://codewhiteweb.cf/CodeWhiteWeb)
+
 </div>
