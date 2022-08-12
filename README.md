@@ -78,6 +78,7 @@
 ### My NPM and PIP Packages
   
   [chatbot-discord](https://www.npmjs.com/package/chatbot-discord)
+  [profile-readme-generator](https://www.npmjs.com/package/profile-readme-generator)
   
   More Soon...
 ### ✍️Random Dev Quote
