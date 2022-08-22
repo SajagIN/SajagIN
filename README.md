@@ -15,9 +15,9 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on : NLP Implementation with Python
+🔭 I’m currently working on : Nothing
   
-🌱 I’m currently learning : NLP using NLTK python
+🌱 I’m currently learning : CV using OpenCV python
 
   👯 I’m open to collaborate with anyone
 
