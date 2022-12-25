@@ -85,11 +85,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 
-# Funny Riddles , Test your brain 🤓
+### 🎶Spotify List
+  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31nqkd4reaju3zfynugqtqy5vyj4)](https://open.spotify.com/user/31nqkd4reaju3zfynugqtqy5vyj4)
+  
+  
+### Funny Riddles , Test your brain 🤓
 
 [![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/CodeWhiteWeb/github-readme-riddle)
-
-check out the repo [here](https://github.com/CodeWhiteWeb/github-readme-riddle)
 
 ---
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
