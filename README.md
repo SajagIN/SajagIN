@@ -67,10 +67,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Working Html Forms WITHOUT BACKEND!!!](https://dev.to/codewhiteweb/working-html-forms-without-backend-454f)
-- [Plyr- A media Player that Gives you Money!!!](https://dev.to/codewhiteweb/plyr-a-media-player-that-is-must-have-1124)
-- [1000+ Web development resources](https://dev.to/codewhiteweb/1000-web-development-resources-24mb)
-- [Top 8 Programming Languages For Game Developers](https://dev.to/codewhiteweb/top-8-programming-languages-for-game-developers-1e27)
+- [AI: The Next Big Bang](https://codewhiteweb.medium.com/ai-the-next-big-bang-13eefd188d32?source=rss-6d324adfb19d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/codewhiteweb)
