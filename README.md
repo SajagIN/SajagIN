@@ -27,7 +27,7 @@
 
   📫 How to reach me:  
   Mail me at "web.codewhite@gmail.com" or
-  through website https://codewhiteweb.thedev.id/#contact
+  through website https://codewhiteweb.thedev.id/contact
 
 ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
 
