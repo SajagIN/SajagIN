@@ -27,7 +27,7 @@
 
   📫 How to reach me:  
   Mail me at "web.codewhite@gmail.com" or
-  through website https://codewhiteweb.cf/#contact
+  through website https://codewhiteweb.thedev.id/#contact
 
 ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
 
@@ -49,7 +49,7 @@
 <a href="https://auth.geeksforgeeks.org/user/codewhiteweb" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="codewhiteweb" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/codewhiteweb" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="codewhiteweb" height="30" width="40" /></a>
 </p>
-<a href="https://codewhiteweb.cf"><img src="https://img.shields.io/website?down_color=red&down_message=Under%20work&label=Portfolio&logo=github&style=for-the-badge&up_color=blue&up_message=Working&url=https%3A%2F%2FCodewhiteweb.cf"></a> <a href="https://codewhiteweb.cf/donate/"><img src="https://img.shields.io/badge/TIP me-Donate%20me-&?style=for-the-badge&logo=bitcoin"></a>
+<a href="https://codewhiteweb.cf"><img src="https://img.shields.io/website?down_color=red&down_message=Under%20work&label=Portfolio&logo=github&style=for-the-badge&up_color=blue&up_message=Working&url=https://codewhiteweb.thedev.id"></a> <a href="https://codewhiteweb.cf/donate/"><img src="https://img.shields.io/badge/TIP me-Donate%20me-&?style=for-the-badge&logo=bitcoin"></a>
 
 ### Donate to a trusted NGO you know, thats enough to bring smile on my face :)
 
