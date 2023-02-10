@@ -103,6 +103,4 @@
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-[HTML VERSION OF THIS README HERE](http://codewhiteweb.thedev.id/CodeWhiteWeb)
-
 </div>
