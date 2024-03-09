@@ -70,6 +70,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AI: The Next Big Bang](https://codewhiteweb.medium.com/ai-the-next-big-bang-13eefd188d32?source=rss-6d324adfb19d------2)
+- [Best Google Fonts for your website](https://codewhiteweb.medium.com/best-google-fonts-for-your-website-9356267f51a4?source=rss-6d324adfb19d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/codewhiteweb)
