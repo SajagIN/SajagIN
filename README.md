@@ -43,14 +43,17 @@
 ### 🎶Spotify List
   [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31nqkd4reaju3zfynugqtqy5vyj4)](https://open.spotify.com/user/31nqkd4reaju3zfynugqtqy5vyj4)
   
+<table>
+<tr>
+  <th>✍️Random Dev Quote</th>
+  <th>🤓Funny Riddles , Test your brain</th>
+</tr>
+<tr>
+  <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dracula" alt=""></td>
+  <td><a href="https://github.com/CodeWhiteWeb/github-readme-riddle"><img src="https://github-readme-riddle.vercel.app/api?type=horizontal&amp;theme=dracula" alt="Readme Riddle"></a></td>
+</tr>
+</table>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
-  
-### Funny Riddles , Test your brain 🤓
-
-[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/CodeWhiteWeb/github-readme-riddle)
 
 ---
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
