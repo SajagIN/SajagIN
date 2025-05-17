@@ -13,15 +13,6 @@
 
 ---
 <div align="center">
-  
-# 💫
-  👯 I’m open to collaborate with anyone
-
-  💬 Ask me about for any help
-
-  📫 How to reach me:  
-  Mail me at "web.codewhite@gmail.com" or
-  through website https://codewhiteweb.thedev.id/#contact
 
 <a href="https://codewhiteweb.thedev.id"><img src="https://img.shields.io/website?down_color=red&down_message=Under%20work&label=Personal&logo=github&style=for-the-badge&up_color=blue&up_message=Working&url=https://codewhiteweb.thedev.id"></a> <a href="https://codewhiteweb.thdev.id/donate/"><img src="https://img.shields.io/badge/TIP me-Donate%20me-&?style=for-the-badge&logo=bitcoin"></a>
 
