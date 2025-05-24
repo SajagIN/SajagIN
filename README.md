@@ -40,8 +40,8 @@
   <th>🤓Funny Riddles , Test your brain</th>
 </tr>
 <tr>
-  <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dracula" alt=""></td>
-  <td><a href="https://github.com/CodeWhiteWeb/github-readme-riddle"><img src="https://github-readme-riddle.vercel.app/api?type=horizontal&amp;theme=dracula" alt="Readme Riddle"></a></td>
+  <td><img src="https://quotes-github-readme.vercel.app/api?theme=dracula" alt=""></td>
+  <td><a href="https://github.com/CodeWhiteWeb/github-readme-riddle"><img src="https://github-readme-riddle.vercel.app/api?theme=dracula" alt="Readme Riddle"></a></td>
 </tr>
 </table>
 
