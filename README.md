@@ -33,7 +33,14 @@
 
 ### 🎶Spotify List
   [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31nqkd4reaju3zfynugqtqy5vyj4)](https://open.spotify.com/user/31nqkd4reaju3zfynugqtqy5vyj4)
-  
+
+<table>
+<tr>
+  <td><a href="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&count=4&title=Recently%20Watched%20Anime"><img src="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&count=4&title=Recently%20Watched%20Anime" alt=""></a></td>
+  <td><a href="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&manga=true&count=4&title=Recently%20Read%20Manga"><img src="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&manga=true&count=4&title=Recently%20Read%20Manga" alt="Readme Riddle"></a></td>
+</tr>
+</table>
+
 <table>
 <tr>
   <th>✍️Random Dev Quote</th>
