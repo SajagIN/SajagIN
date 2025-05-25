@@ -36,8 +36,8 @@
 
 <table>
 <tr>
-  <td><a href="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&count=4&title=Recently%20Watched%20Anime"><img src="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&count=4&title=Recently%20Watched%20Anime" alt=""></a></td>
-  <td><a href="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&manga=true&count=4&title=Recently%20Read%20Manga"><img src="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&manga=true&count=4&title=Recently%20Read%20Manga" alt="Readme Riddle"></a></td>
+  <td><a href="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&count=4&title=Recently%20Watched%20Anime"><img src="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&count=4&title=Recently%20Watched%20Anime" alt="Anime List"></a></td>
+  <td><a href="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&manga=true&count=4&title=Recently%20Read%20Manga"><img src="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&manga=true&count=4&title=Recently%20Read%20Manga" alt="Manga List"></a></td>
 </tr>
 </table>
 
