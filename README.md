@@ -18,7 +18,7 @@
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> 
 
-[![](https://raw.githubusercontent.com/CodeWhiteWeb/CodeWhiteWeb/refs/heads/main/skills.png)](https://codewhiteweb.thedev.id/#Skills)
+[![image](https://github.com/user-attachments/assets/1decce61-0551-43e2-a926-38990d22a632)](https://codewhiteweb.thedev.id/#Skills)
  
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200)
