@@ -14,11 +14,11 @@
 ---
 <div align="center">
 
-<a href="https://SajagIN.thedev.id"><img src="https://img.shields.io/website?down_color=red&down_message=Under%20work&label=Personal&logo=github&style=for-the-badge&up_color=blue&up_message=Working&url=https://SajagIN.thedev.id"></a> <a href="https://SajagIN.thdev.id/donate/"><img src="https://img.shields.io/badge/TIP me-Donate%20me-&?style=for-the-badge&logo=bitcoin"></a>
+<a href="https://SajagIN.github.io"><img src="https://img.shields.io/website?down_color=red&down_message=Under%20work&label=Personal&logo=github&style=for-the-badge&up_color=blue&up_message=Working&url=https://SajagIN.github.io"></a> <a href="https://SajagIN.thdev.id/donate/"><img src="https://img.shields.io/badge/TIP me-Donate%20me-&?style=for-the-badge&logo=bitcoin"></a>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> 
 
-[![image](https://github.com/user-attachments/assets/1decce61-0551-43e2-a926-38990d22a632)](https://SajagIN.thedev.id/#Skills)
+[![image](https://github.com/user-attachments/assets/1decce61-0551-43e2-a926-38990d22a632)](https://SajagIN.github.io/#Skills)
  
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=SajagIN&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200)
