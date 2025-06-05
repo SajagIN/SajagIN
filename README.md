@@ -14,7 +14,7 @@
 ---
 <div align="center">
 
-<a href="https://SajagIN.github.io"><img src="https://img.shields.io/website?down_color=red&down_message=Under%20work&label=Personal&logo=github&style=for-the-badge&up_color=blue&up_message=Working&url=https://SajagIN.github.io"></a> <a href="https://SajagIN.thdev.id/donate/"><img src="https://img.shields.io/badge/TIP me-Donate%20me-&?style=for-the-badge&logo=bitcoin"></a>
+<a href="https://SajagIN.github.io"><img src="https://img.shields.io/website?down_color=red&down_message=Under%20work&label=Portfolio&logo=github&style=for-the-badge&up_color=blue&up_message=Working&url=https://SajagIN.github.io"></a> <a href="https://SajagIN.thdev.id/donate/"><img src="https://img.shields.io/badge/TIP me-Donate%20me-&?style=for-the-badge&logo=bitcoin"></a>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> 
 
