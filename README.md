@@ -29,6 +29,8 @@
 [![](https://github-profile-trophy.vercel.app/?username=SajagIN&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=SajagIN&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row53&column=5) <!--<a href="https://app.daily.dev/SajagIN"><img src="https://github.com/SajagIN/SajagIN/blob/main/devcard.svg" width="175" alt="SajagINs's Dev Card"/></a><br>-->
 <!--![trophy](https://metrics.lecoq.io/SajagIN?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=Asia%2FCalcutta)-->
 
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=2700&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=100)
+
 ---
 
 ### 🎶Spotify List
