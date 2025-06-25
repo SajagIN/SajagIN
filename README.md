@@ -62,6 +62,7 @@
 ---
 ![Profile_Views](https://komarev.com/ghpvc/?username=CodeWhiteWeb&style=for-the-badge&label=Visitors+Count&color=brightgreen)
 [![wakatime](https://wakatime.com/badge/user/1d2fda96-c074-4c84-a0d5-31efb131faec.svg/?style=for-the-badge)](https://wakatime.com/@1d2fda96-c074-4c84-a0d5-31efb131faec)
+![Hackatime](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhackatime.hackclub.com%2Fapi%2Fv1%2Fusers%2FU08PGAD2KC1%2Fstats&query=%24.data.human_readable_total&style=for-the-badge&label=Hackatime&labelColor=grey&color=black)
 
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
