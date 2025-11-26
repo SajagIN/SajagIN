@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&up_color=blue&up_message=Online&down_color=red&down_message=Offline&url=https%3A%2F%2FSajagIN.github.io">
 </a> 
 
-<a href="https://SajagIN.thdev.id/donate/">
+<a href="https://github.com/sponsors/SajagIN/">
   <img src="https://img.shields.io/badge/Support%20Me-💖-ff69b4?style=for-the-badge&logo=githubsponsors">
 </a>
 
