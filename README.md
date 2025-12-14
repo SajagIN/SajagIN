@@ -8,7 +8,7 @@
 <p align="center">
   
   <a href="https://github.com/SajagIN/SajagIN">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=450&pause=50&color=FFFFFF&center=true&vCenter=true&width=500&lines=Code+|+Create+|+Learn;Web+Developer!;Lifelong+Learner!;Blockchain+Enthusiast!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=450&pause=50&color=FFFFFF&center=true&vCenter=true&width=500&lines=Code+|+Create+|+Learn;Web+Developer!;Lifelong+Learner!;Blockchain+Enthusiast!;Bots+and+Automations!;">
   </a>
 </p>
 
