@@ -8,7 +8,7 @@
 <p align="center">
   
   <a href="https://github.com/SajagIN/SajagIN">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=100&color=36BCF7&center=true&vCenter=true&width=500&lines=Code+|+Create+|+Learn;Web+Dev+|+Game+Dev+|+App+Dev;Full-Stack+Developer+%26+Lifelong+Learner">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=450&pause=50&color=FFFFFF&center=true&vCenter=true&width=500&lines=Code+|+Create+|+Learn;Web+Developer!;Lifelong+Learner!;Blockchain+Enthusiast!">
   </a>
 </p>
 
@@ -30,17 +30,17 @@
 <summary><h2>💻 Tech Stack</h2></summary>
 <br>
 
-<h3>⚡ Advanced Skills</h3>
+<h3>⚡ Advanced Skills - <i>Can make stuff from scratch</i></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,express,git,postgres,html,js,java,mongodb,nodejs,python,sass,sqlite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,express,ts,git,postgres,html,js,mongodb,nodejs,python,sass,sqlite,tailwind" />
 </p>
 
-<h3>🚀 Intermediate Skills</h3>
+<h3>🚀 Intermediate Skills - <i>Can maintain stuff</i></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,aws,ts,coffeescript,django,electron,firebase,mysql,nextjs,nginx,matlab,pytorch,react,ruby,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=angular,aws,coffeescript,django,electron,firebase,mysql,nextjs,java,nginx,matlab,pytorch,react,ruby,tensorflow" />
 </p>
 
-<h3>🌱 Beginner Skills</h3>
+<h3>🌱 Beginner Skills - <i>Understand</i></h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=babel,blender,docker,figma,vue,flutter,nestjs,nuxt,graphql,postman,redis,redux,svelte,vuetify" />
 </p>
