@@ -32,7 +32,7 @@
 
 <h3>⚡ Advanced Skills - <i>Can make stuff from scratch</i></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,express,ts,git,postgres,html,js,mongodb,nodejs,python,sass,sqlite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,express,ts,git,postgres,html,js,mongodb,nodejs,python,sass,sqlite,tailwind,postman" />
 </p>
 
 <h3>🚀 Intermediate Skills - <i>Can maintain stuff</i></h3>
@@ -42,7 +42,7 @@
 
 <h3>🌱 Beginner Skills - <i>Understand</i></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=babel,blender,docker,figma,vue,flutter,nestjs,nuxt,graphql,postman,redis,redux,svelte,vuetify" />
+  <img src="https://skillicons.dev/icons?i=babel,blender,docker,figma,vue,flutter,nestjs,nuxt,graphql,redis,redux,svelte,vuetify" />
 </p>
 </details>
 
