@@ -37,7 +37,7 @@
 
 <h3>🚀 Intermediate Skills - <i>Can maintain stuff</i></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,aws,coffeescript,django,electron,mysql,nextjs,java,react,ruby,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=angular,aws,coffeescript,django,electron,mysql,nextjs,java,react,ruby" />
 </p>
 
 <h3>🌱 Beginner Skills - <i>Understand</i></h3>
