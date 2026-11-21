@@ -80,7 +80,7 @@
 
 | 🎵 Recently Played | 🍿 Recently Watched | 💥 Recently Read |
 |--------------------|----------|--------|
-| <a href="https://open.spotify.com/user/31nqkd4reaju3zfynugqtqy5vyj4"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31nqkd4reaju3zfynugqtqy5vyj4"></a> | <a href="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&count=4&title=Recently%20Watched%20Anime"><img src="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&count=4&title=Recently%20Watched%20Anime">| <a href="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&manga=true&count=4&title=Recently%20Read%20Manga"><img src="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&manga=true&count=4&title=Recently%20Read%20Manga"></a> |
+| <a href="https://open.spotify.com/user/31nqkd4reaju3zfynugqtqy5vyj4"><img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31nqkd4reaju3zfynugqtqy5vyj4"></a> | <a href="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&count=4&title=Recently%20Watched%20Anime"><img src="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&count=4&title=Recently%20Watched%20Anime">| <a href="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&manga=true&count=4&title=Recently%20Read%20Manga"><img src="https://mal-md.vercel.app/api?username=Code_White_Weeb&theme=chartreuse_dark&manga=true&count=4&title=Recently%20Read%20Manga"></a> |
 
 </div>
 </details>
